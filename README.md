@@ -7,7 +7,7 @@
 * 💞️ He colaborado en proyectos como [Data Lovers](https://github.com/paulhaconde94/DEV001-data-lovers)
 
 # Contactame en:
-![icons8-linkedin-48](https://user-images.githubusercontent.com/49293462/215901073-b3c68194-7815-4eb6-be84-769d044adfba.png)(https://www.linkedin.com/in/mar%C3%ADa-paula-rocha-b50917155/)
+<a href="https://www.linkedin.com/in/mar%C3%ADa-paula-rocha-b50917155/"><img src="casarural.jpg"></a>
 
 
 <!---
