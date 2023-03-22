@@ -7,7 +7,7 @@
 * 💞️ He colaborado en proyectos como [Data Lovers](https://github.com/paulhaconde94/DEV001-data-lovers)
 
 # Contactame en:
-<a href="https://www.linkedin.com/in/mar%C3%ADa-paula-rocha-b50917155/"><img src="https://github.com/paulhaconde94/paulhaconde94/blob/main/IconoL.png"></a>
+<a href="https://www.linkedin.com/in/mariapaularochac/"><img src="https://github.com/paulhaconde94/paulhaconde94/blob/main/IconoL.png"></a>
 
 # Lenguajes y Herramientas 
 <img src="https://github.com/paulhaconde94/paulhaconde94/blob/main/iconoHtml.png" width="40" height="40"/></a>
